@@ -1,0 +1,22 @@
+{
+  "name": "deps-peer-version",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/depsir/deps-dev-version.git"
+  },
+  "author": "Francesco Sacchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/depsir/deps-dev-version/issues"
+  },
+  "homepage": "https://github.com/depsir/deps-dev-version#readme",
+  "peerDependencies": {
+    "deps-version": "^1.0.1"
+  }
+}
